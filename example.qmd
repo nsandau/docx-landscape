@@ -1,0 +1,11 @@
+---
+title: "Docx-landscape Example"
+filters:
+  - docx-landscape
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
